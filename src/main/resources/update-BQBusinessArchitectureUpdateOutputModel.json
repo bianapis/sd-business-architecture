@@ -1,0 +1,13 @@
+{
+  "businessArchitectureServiceWorkProduct" : "businessArchitectureServiceWorkProduct",
+  "businessArchitecturePreconditions" : "businessArchitecturePreconditions",
+  "businessArchitectureUpdateActionTaskReference" : "BAUATR710120",
+  "updateResponseRecord" : {},
+  "businessArchitectureSpecificationSchedule" : "businessArchitectureSpecificationSchedule",
+  "businessArchitectureUpdateActionTaskRecord" : {},
+  "businessArchitectureServiceType" : "businessArchitectureServiceType",
+  "businessArchitectureServiceDescription" : "businessArchitectureServiceDescription",
+  "businessArchitectureServiceInputsandOuputs" : "businessArchitectureServiceInputsandOuputs",
+  "businessArchitectureVersionNumber" : "businessArchitectureVersionNumber",
+  "businessArchitectureServiceName" : "businessArchitectureServiceName"
+}

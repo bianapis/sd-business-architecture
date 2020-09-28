@@ -1,0 +1,25 @@
+{
+  "informationArchitectureRetrieveActionTaskReference" : "IARATR725936",
+  "informationArchitectureInstanceAnalysis" : {
+    "informationArchitectureInstanceAnalysisReport" : {},
+    "informationArchitectureInstanceAnalysisParameters" : "informationArchitectureInstanceAnalysisParameters",
+    "informationArchitectureInstanceAnalysisReportType" : "informationArchitectureInstanceAnalysisReportType",
+    "informationArchitectureInstanceAnalysisRecord" : {}
+  },
+  "informationArchitectureServiceDescription" : "informationArchitectureServiceDescription",
+  "informationArchitecturePreconditions" : "informationArchitecturePreconditions",
+  "informationArchitectureServiceType" : "informationArchitectureServiceType",
+  "informationArchitectureServiceInputsandOuputs" : "informationArchitectureServiceInputsandOuputs",
+  "informationArchitectureServiceWorkProduct" : "informationArchitectureServiceWorkProduct",
+  "informationArchitectureRetrieveActionResponse" : "informationArchitectureRetrieveActionResponse",
+  "informationArchitectureSpecificationSchedule" : "informationArchitectureSpecificationSchedule",
+  "informationArchitectureVersionNumber" : "informationArchitectureVersionNumber",
+  "informationArchitectureRetrieveActionTaskRecord" : {},
+  "informationArchitectureServiceName" : "informationArchitectureServiceName",
+  "informationArchitectureInstanceReport" : {
+    "informationArchitectureInstanceReportRecord" : {},
+    "informationArchitectureInstanceReportType" : "informationArchitectureInstanceReportType",
+    "informationArchitectureInstanceReportParameters" : "informationArchitectureInstanceReportParameters",
+    "informationArchitectureInstanceReport" : {}
+  }
+}

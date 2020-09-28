@@ -1,0 +1,14 @@
+{
+  "informationArchitectureServiceType" : "informationArchitectureServiceType",
+  "informationArchitectureServiceInputsandOuputs" : "informationArchitectureServiceInputsandOuputs",
+  "informationArchitectureRequestActionTaskRecord" : {},
+  "informationArchitectureServiceWorkProduct" : "informationArchitectureServiceWorkProduct",
+  "informationArchitectureSpecificationSchedule" : "informationArchitectureSpecificationSchedule",
+  "informationArchitectureVersionNumber" : "informationArchitectureVersionNumber",
+  "informationArchitectureRequestActionTaskReference" : "IARATR761315",
+  "informationArchitectureRequestRecordReference" : "IARRR713158",
+  "informationArchitectureServiceName" : "informationArchitectureServiceName",
+  "informationArchitectureServiceDescription" : "informationArchitectureServiceDescription",
+  "informationArchitecturePreconditions" : "informationArchitecturePreconditions",
+  "requestResponseRecord" : {}
+}

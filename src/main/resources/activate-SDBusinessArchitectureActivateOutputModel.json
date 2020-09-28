@@ -1,0 +1,24 @@
+{
+  "businessArchitectureServicingSessionRecord" : {},
+  "businessArchitectureActivationActionTaskReference" : "SAATR758836",
+  "businessArchitectureServiceConfigurationRecord" : {
+    "businessArchitectureServiceStatus" : "businessArchitectureServiceStatus",
+    "businessArchitectureServiceAgreement" : {
+      "businessArchitectureServiceAgreementReference" : "791202",
+      "businessArchitectureServiceUserReference" : "767210",
+      "businessArchitectureServiceAgreementTermsandConditions" : "businessArchitectureServiceAgreementTermsandConditions"
+    },
+    "businessArchitectureServiceConfigurationSettingReference" : "700761",
+    "businessArchitectureServiceConfigurationSetup" : {
+      "businessArchitectureServiceConfigurationParameter" : "businessArchitectureServiceConfigurationParameter"
+    },
+    "businessArchitectureServiceSubscription" : {
+      "businessArchitectureServiceSubscriberReference" : "769192",
+      "businessArchitectureServiceSubscriberAccessProfile" : "businessArchitectureServiceSubscriberAccessProfile"
+    },
+    "businessArchitectureServiceConfigurationSettingDescription" : "businessArchitectureServiceConfigurationSettingDescription"
+  },
+  "businessArchitectureActivationActionTaskRecord" : {},
+  "businessArchitectureServicingSessionStatus" : "businessArchitectureServicingSessionStatus",
+  "businessArchitectureServicingSessionReference" : "SSSR783215"
+}

@@ -1,0 +1,26 @@
+{
+  "organizationalModelServiceDescription" : "organizationalModelServiceDescription",
+  "organizationalModelServiceType" : "organizationalModelServiceType",
+  "organizationSpecificationSchedule" : "organizationSpecificationSchedule",
+  "organizationVersionNumber" : "organizationVersionNumber",
+  "applicationArchitectureRetrieveActionTaskReference" : "AARATR706562",
+  "organizationalModel" : "organizationalModel",
+  "applicationArchitectureRetrieveActionResponse" : "applicationArchitectureRetrieveActionResponse",
+  "applicationArchitectureInstanceAnalysis" : {
+    "applicationArchitectureInstanceAnalysisReport" : {},
+    "applicationArchitectureInstanceAnalysisReportType" : "applicationArchitectureInstanceAnalysisReportType",
+    "applicationArchitectureInstanceAnalysisRecord" : {},
+    "applicationArchitectureInstanceAnalysisParameters" : "applicationArchitectureInstanceAnalysisParameters"
+  },
+  "organizationalModelServiceName" : "organizationalModelServiceName",
+  "applicationArchitectureRetrieveActionTaskRecord" : {},
+  "organizationalModelServiceWorkProduct" : "organizationalModelServiceWorkProduct",
+  "organizationPreconditions" : "organizationPreconditions",
+  "applicationArchitectureInstanceReport" : {
+    "applicationArchitectureInstanceReportType" : "applicationArchitectureInstanceReportType",
+    "applicationArchitectureInstanceReportRecord" : {},
+    "applicationArchitectureInstanceReportParameters" : "applicationArchitectureInstanceReportParameters",
+    "applicationArchitectureInstanceReport" : {}
+  },
+  "organizationalModelServiceInputsandOuputs" : "organizationalModelServiceInputsandOuputs"
+}

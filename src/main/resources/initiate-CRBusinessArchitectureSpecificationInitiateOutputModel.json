@@ -1,0 +1,12 @@
+{
+  "businessArchitectureSpecificationSelectedOption" : "businessArchitectureSpecificationSelectedOption",
+  "businessArchitectureSpecificationStatus" : "businessArchitectureSpecificationStatus",
+  "businessArchitectureSpecificationFeedback" : "businessArchitectureSpecificationFeedback",
+  "businessArchitectureSpecificationInstanceStatus" : "businessArchitectureSpecificationInstanceStatus",
+  "businessArchitectureSpecificationInstanceReference" : "BASIR733922",
+  "businessArchitectureSpecificationInitiateActionReference" : "BASIAR772497",
+  "businessArchitectureSpecificationParameterType" : "businessArchitectureSpecificationParameterType",
+  "businessArchitectureSpecificationVersion" : "businessArchitectureSpecificationVersion",
+  "businessArchitectureSpecificationUsageLog" : "businessArchitectureSpecificationUsageLog",
+  "businessArchitectureSpecificationInitiateActionRecord" : {}
+}

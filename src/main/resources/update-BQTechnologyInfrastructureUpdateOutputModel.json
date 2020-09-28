@@ -1,0 +1,12 @@
+{
+  "technologyInfrastructureSpecificationSchedule" : "technologyInfrastructureSpecificationSchedule",
+  "technologyInfrastructureUpdateActionTaskRecord" : {},
+  "technologyInfrastructureServiceDescription" : "technologyInfrastructureServiceDescription",
+  "technologyInfrastructureUpdateActionTaskReference" : "TIUATR747205",
+  "updateResponseRecord" : {},
+  "technologyInfrastructureServiceType" : "technologyInfrastructureServiceType",
+  "technologyInfrastructurePreconditions" : "technologyInfrastructurePreconditions",
+  "technologyInfrastructureServiceWorkProduct" : "technologyInfrastructureServiceWorkProduct",
+  "technologyInfrastructureVersionNumber" : "technologyInfrastructureVersionNumber",
+  "technologyInfrastructureServiceInputsandOuputs" : "technologyInfrastructureServiceInputsandOuputs"
+}

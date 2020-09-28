@@ -1,0 +1,21 @@
+{
+  "businessArchitectureConfigurationActionTaskRecord" : {},
+  "businessArchitectureServiceConfigurationRecord" : {
+    "businessArchitectureServiceStatus" : "businessArchitectureServiceStatus",
+    "businessArchitectureServiceAgreement" : {
+      "businessArchitectureServiceAgreementReference" : "721156",
+      "businessArchitectureServiceUserReference" : "733696",
+      "businessArchitectureServiceAgreementTermsandConditions" : "businessArchitectureServiceAgreementTermsandConditions"
+    },
+    "businessArchitectureServiceConfigurationSetup" : {
+      "businessArchitectureServiceConfigurationParameter" : "businessArchitectureServiceConfigurationParameter"
+    },
+    "businessArchitectureServiceSubscription" : {
+      "businessArchitectureServiceSubscriberReference" : "756221",
+      "businessArchitectureServiceSubscriberAccessProfile" : "businessArchitectureServiceSubscriberAccessProfile"
+    },
+    "businessArchitectureServiceConfigurationSettingDescription" : "businessArchitectureServiceConfigurationSettingDescription"
+  },
+  "businessArchitectureServicingSessionStatus" : "businessArchitectureServicingSessionStatus",
+  "businessArchitectureConfigurationActionTaskReference" : "SCATR765419"
+}

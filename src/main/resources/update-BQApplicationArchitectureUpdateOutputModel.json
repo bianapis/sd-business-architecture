@@ -1,0 +1,14 @@
+{
+  "organizationalModel" : "organizationalModel",
+  "organizationalModelServiceDescription" : "organizationalModelServiceDescription",
+  "organizationalModelServiceName" : "organizationalModelServiceName",
+  "organizationalModelServiceType" : "organizationalModelServiceType",
+  "applicationArchitectureUpdateActionTaskRecord" : {},
+  "organizationalModelServiceWorkProduct" : "organizationalModelServiceWorkProduct",
+  "organizationPreconditions" : "organizationPreconditions",
+  "applicationArchitectureUpdateActionTaskReference" : "AAUATR790330",
+  "updateResponseRecord" : {},
+  "organizationSpecificationSchedule" : "organizationSpecificationSchedule",
+  "organizationVersionNumber" : "organizationVersionNumber",
+  "organizationalModelServiceInputsandOuputs" : "organizationalModelServiceInputsandOuputs"
+}

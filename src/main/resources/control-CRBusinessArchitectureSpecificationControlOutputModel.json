@@ -1,0 +1,11 @@
+{
+  "businessArchitectureSpecificationSelectedOption" : "businessArchitectureSpecificationSelectedOption",
+  "businessArchitectureSpecificationStatus" : "businessArchitectureSpecificationStatus",
+  "businessArchitectureSpecificationControlActionResponse" : "businessArchitectureSpecificationControlActionResponse",
+  "businessArchitectureSpecificationControlActionTaskRecord" : {},
+  "businessArchitectureSpecificationFeedback" : "businessArchitectureSpecificationFeedback",
+  "businessArchitectureSpecificationParameterType" : "businessArchitectureSpecificationParameterType",
+  "businessArchitectureSpecificationVersion" : "businessArchitectureSpecificationVersion",
+  "businessArchitectureSpecificationUsageLog" : "businessArchitectureSpecificationUsageLog",
+  "businessArchitectureSpecificationControlActionTaskReference" : "BASCATR754059"
+}

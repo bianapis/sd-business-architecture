@@ -1,0 +1,14 @@
+{
+  "informationArchitectureServiceType" : "informationArchitectureServiceType",
+  "informationArchitectureServiceInputsandOuputs" : "informationArchitectureServiceInputsandOuputs",
+  "informationArchitectureCaptureActionTaskRecord" : {},
+  "informationArchitectureCaptureRecordReference" : "IACRR725618",
+  "informationArchitectureServiceWorkProduct" : "informationArchitectureServiceWorkProduct",
+  "informationArchitectureSpecificationSchedule" : "informationArchitectureSpecificationSchedule",
+  "informationArchitectureCaptureActionTaskReference" : "IACATR792696",
+  "informationArchitectureVersionNumber" : "informationArchitectureVersionNumber",
+  "informationArchitectureServiceName" : "informationArchitectureServiceName",
+  "informationArchitectureServiceDescription" : "informationArchitectureServiceDescription",
+  "captureResponseRecord" : {},
+  "informationArchitecturePreconditions" : "informationArchitecturePreconditions"
+}

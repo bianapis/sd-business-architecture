@@ -1,0 +1,13 @@
+{
+  "technologyInfrastructureCaptureActionTaskRecord" : {},
+  "technologyInfrastructureSpecificationSchedule" : "technologyInfrastructureSpecificationSchedule",
+  "technologyInfrastructureServiceDescription" : "technologyInfrastructureServiceDescription",
+  "technologyInfrastructureServiceType" : "technologyInfrastructureServiceType",
+  "technologyInfrastructurePreconditions" : "technologyInfrastructurePreconditions",
+  "technologyInfrastructureServiceWorkProduct" : "technologyInfrastructureServiceWorkProduct",
+  "technologyInfrastructureVersionNumber" : "technologyInfrastructureVersionNumber",
+  "captureResponseRecord" : {},
+  "technologyInfrastructureServiceInputsandOuputs" : "technologyInfrastructureServiceInputsandOuputs",
+  "technologyInfrastructureCaptureActionTaskReference" : "TICATR756615",
+  "technologyInfrastructureCaptureRecordReference" : "TICRR719166"
+}

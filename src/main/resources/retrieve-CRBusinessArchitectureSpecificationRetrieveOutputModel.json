@@ -1,0 +1,23 @@
+{
+  "businessArchitectureSpecificationSelectedOption" : "businessArchitectureSpecificationSelectedOption",
+  "businessArchitectureSpecificationStatus" : "businessArchitectureSpecificationStatus",
+  "businessArchitectureSpecificationInstanceAnalysis" : {
+    "businessArchitectureSpecificationInstanceAnalysisData" : "businessArchitectureSpecificationInstanceAnalysisData",
+    "businessArchitectureSpecificationInstanceAnalysisReportType" : "businessArchitectureSpecificationInstanceAnalysisReportType",
+    "businessArchitectureSpecificationInstanceAnalysisReport" : {}
+  },
+  "businessArchitectureSpecificationDescription" : "businessArchitectureSpecificationDescription",
+  "businessArchitectureSpecificationInstanceReportRecord" : {
+    "businessArchitectureSpecificationInstanceReportType" : "businessArchitectureSpecificationInstanceReportType",
+    "businessArchitectureSpecificationInstanceReport" : {},
+    "businessArchitectureSpecificationInstanceReportData" : "businessArchitectureSpecificationInstanceReportData"
+  },
+  "businessArchitectureSpecificationFeedback" : "businessArchitectureSpecificationFeedback",
+  "businessArchitectureSpecificationUsageLog" : "businessArchitectureSpecificationUsageLog",
+  "businessArchitectureSpecificationServiceProviderReference" : "BASSR793342",
+  "businessArchitectureSpecificationRetrieveActionTaskReference" : "BASRATR784424",
+  "businessArchitectureSpecificationRetrieveActionTaskRecord" : {},
+  "businessArchitectureSpecificationParameterType" : "businessArchitectureSpecificationParameterType",
+  "businessArchitectureSpecificationVersion" : "businessArchitectureSpecificationVersion",
+  "businessArchitectureSpecificationRetrieveActionResponse" : "businessArchitectureSpecificationRetrieveActionResponse"
+}

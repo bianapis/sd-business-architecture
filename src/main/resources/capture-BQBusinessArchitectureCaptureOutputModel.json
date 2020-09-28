@@ -1,0 +1,14 @@
+{
+  "businessArchitectureCaptureActionTaskRecord" : {},
+  "businessArchitectureServiceWorkProduct" : "businessArchitectureServiceWorkProduct",
+  "businessArchitecturePreconditions" : "businessArchitecturePreconditions",
+  "businessArchitectureCaptureActionTaskReference" : "BACATR709594",
+  "businessArchitectureSpecificationSchedule" : "businessArchitectureSpecificationSchedule",
+  "businessArchitectureServiceType" : "businessArchitectureServiceType",
+  "businessArchitectureServiceDescription" : "businessArchitectureServiceDescription",
+  "businessArchitectureCaptureRecordReference" : "BACRR718615",
+  "businessArchitectureServiceInputsandOuputs" : "businessArchitectureServiceInputsandOuputs",
+  "businessArchitectureVersionNumber" : "businessArchitectureVersionNumber",
+  "captureResponseRecord" : {},
+  "businessArchitectureServiceName" : "businessArchitectureServiceName"
+}

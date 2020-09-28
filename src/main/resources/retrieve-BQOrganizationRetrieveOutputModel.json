@@ -1,0 +1,25 @@
+{
+  "organizationRetrieveActionTaskReference" : "ORATR779686",
+  "applicationArchitectureServiceWorkProduct" : "applicationArchitectureServiceWorkProduct",
+  "applicationArchitectureServiceType" : "applicationArchitectureServiceType",
+  "applicationArchitectureVersionNumber" : "applicationArchitectureVersionNumber",
+  "organizationRetrieveActionTaskRecord" : {},
+  "organizationRetrieveActionResponse" : "organizationRetrieveActionResponse",
+  "organizationInstanceAnalysis" : {
+    "organizationInstanceAnalysisRecord" : {},
+    "organizationInstanceAnalysisReport" : {},
+    "organizationInstanceAnalysisParameters" : "organizationInstanceAnalysisParameters",
+    "organizationInstanceAnalysisReportType" : "organizationInstanceAnalysisReportType"
+  },
+  "applicationArchitecturePreconditions" : "applicationArchitecturePreconditions",
+  "applicationArchitectureServiceInputsandOuputs" : "applicationArchitectureServiceInputsandOuputs",
+  "applicationArchitectureServiceDescription" : "applicationArchitectureServiceDescription",
+  "organizationInstanceReport" : {
+    "organizationInstanceReportRecord" : {},
+    "organizationInstanceReportType" : "organizationInstanceReportType",
+    "organizationInstanceReport" : {},
+    "organizationInstanceReportParameters" : "organizationInstanceReportParameters"
+  },
+  "applicationArchitectureServiceName" : "applicationArchitectureServiceName",
+  "applicationArchitectureSpecificationSchedule" : "applicationArchitectureSpecificationSchedule"
+}

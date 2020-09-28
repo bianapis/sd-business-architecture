@@ -1,0 +1,14 @@
+{
+  "businessArchitectureServiceWorkProduct" : "businessArchitectureServiceWorkProduct",
+  "businessArchitectureRequestRecordReference" : "BARRR739358",
+  "businessArchitecturePreconditions" : "businessArchitecturePreconditions",
+  "businessArchitectureSpecificationSchedule" : "businessArchitectureSpecificationSchedule",
+  "businessArchitectureServiceType" : "businessArchitectureServiceType",
+  "businessArchitectureServiceDescription" : "businessArchitectureServiceDescription",
+  "businessArchitectureRequestActionTaskReference" : "BARATR781029",
+  "businessArchitectureServiceInputsandOuputs" : "businessArchitectureServiceInputsandOuputs",
+  "businessArchitectureVersionNumber" : "businessArchitectureVersionNumber",
+  "requestResponseRecord" : {},
+  "businessArchitectureServiceName" : "businessArchitectureServiceName",
+  "businessArchitectureRequestActionTaskRecord" : {}
+}

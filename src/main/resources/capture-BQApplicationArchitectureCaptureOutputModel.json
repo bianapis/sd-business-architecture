@@ -1,0 +1,15 @@
+{
+  "organizationalModelServiceDescription" : "organizationalModelServiceDescription",
+  "organizationalModelServiceType" : "organizationalModelServiceType",
+  "organizationSpecificationSchedule" : "organizationSpecificationSchedule",
+  "organizationVersionNumber" : "organizationVersionNumber",
+  "applicationArchitectureCaptureActionTaskReference" : "AACATR719622",
+  "organizationalModel" : "organizationalModel",
+  "applicationArchitectureCaptureRecordReference" : "AACRR720791",
+  "organizationalModelServiceName" : "organizationalModelServiceName",
+  "organizationalModelServiceWorkProduct" : "organizationalModelServiceWorkProduct",
+  "organizationPreconditions" : "organizationPreconditions",
+  "organizationalModelServiceInputsandOuputs" : "organizationalModelServiceInputsandOuputs",
+  "captureResponseRecord" : {},
+  "applicationArchitectureCaptureActionTaskRecord" : {}
+}

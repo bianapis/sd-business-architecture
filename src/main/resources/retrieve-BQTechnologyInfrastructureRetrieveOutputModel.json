@@ -1,0 +1,24 @@
+{
+  "technologyInfrastructureInstanceReport" : {
+    "technologyInfrastructureInstanceReport" : {},
+    "technologyInfrastructureInstanceReportType" : "technologyInfrastructureInstanceReportType",
+    "technologyInfrastructureInstanceReportRecord" : {},
+    "technologyInfrastructureInstanceReportParameters" : "technologyInfrastructureInstanceReportParameters"
+  },
+  "technologyInfrastructureRetrieveActionTaskReference" : "TIRATR735317",
+  "technologyInfrastructureSpecificationSchedule" : "technologyInfrastructureSpecificationSchedule",
+  "technologyInfrastructureServiceDescription" : "technologyInfrastructureServiceDescription",
+  "technologyInfrastructureServiceType" : "technologyInfrastructureServiceType",
+  "technologyInfrastructureRetrieveActionTaskRecord" : {},
+  "technologyInfrastructureRetrieveActionResponse" : "technologyInfrastructureRetrieveActionResponse",
+  "technologyInfrastructurePreconditions" : "technologyInfrastructurePreconditions",
+  "technologyInfrastructureServiceWorkProduct" : "technologyInfrastructureServiceWorkProduct",
+  "technologyInfrastructureVersionNumber" : "technologyInfrastructureVersionNumber",
+  "technologyInfrastructureServiceInputsandOuputs" : "technologyInfrastructureServiceInputsandOuputs",
+  "technologyInfrastructureInstanceAnalysis" : {
+    "technologyInfrastructureInstanceAnalysisReportType" : "technologyInfrastructureInstanceAnalysisReportType",
+    "technologyInfrastructureInstanceAnalysisRecord" : {},
+    "technologyInfrastructureInstanceAnalysisParameters" : "technologyInfrastructureInstanceAnalysisParameters",
+    "technologyInfrastructureInstanceAnalysisReport" : {}
+  }
+}

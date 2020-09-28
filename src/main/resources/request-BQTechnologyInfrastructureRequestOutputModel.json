@@ -1,0 +1,13 @@
+{
+  "technologyInfrastructureRequestActionTaskReference" : "TIRATR738118",
+  "technologyInfrastructureRequestRecordReference" : "TIRRR743346",
+  "technologyInfrastructureSpecificationSchedule" : "technologyInfrastructureSpecificationSchedule",
+  "technologyInfrastructureServiceDescription" : "technologyInfrastructureServiceDescription",
+  "technologyInfrastructureRequestActionTaskRecord" : {},
+  "technologyInfrastructureServiceType" : "technologyInfrastructureServiceType",
+  "technologyInfrastructurePreconditions" : "technologyInfrastructurePreconditions",
+  "technologyInfrastructureServiceWorkProduct" : "technologyInfrastructureServiceWorkProduct",
+  "technologyInfrastructureVersionNumber" : "technologyInfrastructureVersionNumber",
+  "technologyInfrastructureServiceInputsandOuputs" : "technologyInfrastructureServiceInputsandOuputs",
+  "requestResponseRecord" : {}
+}

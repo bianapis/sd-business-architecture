@@ -1,0 +1,13 @@
+{
+  "informationArchitectureServiceType" : "informationArchitectureServiceType",
+  "informationArchitectureServiceInputsandOuputs" : "informationArchitectureServiceInputsandOuputs",
+  "informationArchitectureUpdateActionTaskReference" : "IAUATR738195",
+  "informationArchitectureUpdateActionTaskRecord" : {},
+  "informationArchitectureServiceWorkProduct" : "informationArchitectureServiceWorkProduct",
+  "informationArchitectureSpecificationSchedule" : "informationArchitectureSpecificationSchedule",
+  "informationArchitectureVersionNumber" : "informationArchitectureVersionNumber",
+  "updateResponseRecord" : {},
+  "informationArchitectureServiceName" : "informationArchitectureServiceName",
+  "informationArchitectureServiceDescription" : "informationArchitectureServiceDescription",
+  "informationArchitecturePreconditions" : "informationArchitecturePreconditions"
+}

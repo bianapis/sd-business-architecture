@@ -1,0 +1,39 @@
+{
+  "businessArchitectureRetrieveActionRecord" : {
+    "businessArchitecturePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "businessArchitectureActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "businessArchitectureOfferedService" : {
+    "businessArchitectureServiceReference" : "776158",
+    "businessArchitectureServiceRecord" : {
+      "businessArchitectureServiceVersion" : "businessArchitectureServiceVersion",
+      "businessArchitectureServicePoliciesandGuidelines" : {
+        "businessArchitectureServiceEligibility" : "businessArchitectureServiceEligibility",
+        "businessArchitectureServiceIntendedUses" : "businessArchitectureServiceIntendedUses",
+        "businessArchitectureServicePricingandTerms" : "businessArchitectureServicePricingandTerms"
+      },
+      "businessArchitectureServiceType" : "businessArchitectureServiceType",
+      "businessArchitectureServiceDescription" : "businessArchitectureServiceDescription",
+      "businessArchitectureServiceSchedule" : "businessArchitectureServiceSchedule"
+    }
+  },
+  "businessArchitectureRetrieveActionTaskReference" : "SRATR795161",
+  "businessArchitectureRetrieveActionResponse" : "businessArchitectureRetrieveActionResponse",
+  "businessArchitectureRetrieveActionTaskRecord" : {}
+}
